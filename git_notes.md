@@ -11,6 +11,7 @@ Initializes a new Git repository in your local project folder.
 
 **When to use:**  
 Use this when you're starting a new project and want to begin tracking changes using Git.
+✅ Practicing git add and commit commands.
 
 **Example:**
 ```bash
