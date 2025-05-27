@@ -17,3 +17,4 @@ Use this when you're starting a new project and want to begin tracking changes u
 mkdir my-project
 cd my-project
 git init
+✅ This is a test line for git add
