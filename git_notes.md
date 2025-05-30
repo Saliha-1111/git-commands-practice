@@ -11,7 +11,7 @@ Initializes a new Git repository in your local project folder.
 
 **When to use:**  
 Use this when you're starting a new project and want to begin tracking changes using Git.
-✅ This is a test line for git add
+✅ This is a test line forfitadded
 
 **Example:**
 ```bash
