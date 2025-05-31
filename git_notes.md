@@ -17,3 +17,17 @@ too check is the file is updated and saved change in vs code
 mkdir my-project
 cd my-project
 git init
+
+
+## 10. git merge
+
+**What it does:**  
+Combines changes from one branch into another.
+
+**When to use:**  
+Use it to bring changes from a feature branch into your main branch after finishing development.
+
+**Example:**
+```bash
+git checkout main
+git merge new-feature
