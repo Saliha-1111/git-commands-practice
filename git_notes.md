@@ -19,3 +19,16 @@ mkdir my-project
 cd my-project
 git init
 ✅ This is a test line for git add
+
+
+---
+
+## 6. git push
+
+**Description:**  
+Uploads your local commits to a remote repository like GitHub.
+
+**Example Usage:**
+```bash
+git push
+
