@@ -10,8 +10,8 @@ This document contains essential Git commands that are frequently used in everyd
 Initializes a new Git repository in your local project folder.
 
 **When to use:**  
-Use this when you're starting a new project and want to begin tracking changes using Git.
-
+Use this when you're starting a new project and want to begin tracking changes using Git. 
+here i added the new line 
 **Example:**
 ```bash
 mkdir my-project
